@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "label": "Sector 1",
+        "color": "grey",
+        "args": [100, 100, 0],
+        "position": [100, 0, 100],
+        "image": "/grass.jpg"
+    },
+    {
+        "id": 2,
+        "label": "Sector 2",
+        "color": "grey",
+        "args": [100, 100, 0],
+        "position": [100, 0, 0],
+        "image": "/grass.jpg"
+    },
+    {
+        "id": 3,
+        "label": "Sector 3",
+        "color": "grey",
+        "args": [100, 100, 0],
+        "position": [0, 0, 0],
+        "image": "/grass.jpg"
+    },
+    {
+        "id": 4,
+        "label": "Sector 4",
+        "color": "grey",
+        "args": [100, 100, 0],
+        "position": [0, 0, 100],
+        "image": "https://thumbs.dreamstime.com/b/soccer-field-football-background-green-court-pattern-lawn-149501631.jpg"
+    }
+]
